@@ -55,3 +55,15 @@ Actions must produce traces, audit records, policy results, decision references,
 ## 10. Learning must be governed
 
 Memory and learning loops must be explicit, auditable, scoped, and reversible where required.
+
+## 11. 18 primitives govern everything
+
+AGenNext is governed by 18 primitives: Identity, Domain, Relation, Path, Policy, Trust, Wallet, Agent, Tool, Model, Data, Device, Port, Kube, OpenBox, Exchange, Evidence, and Lifecycle. Anything may work, but everything must follow the rules, add value, preserve the Fabric, prove outcomes, and continuously improve to remain alive.
+
+## 12. Relation connects, Path moves
+
+Relation creates structure. Path creates movement. No relation, no path. No path, no action. No evidence, no completion.
+
+## 13. Atomic units are zip-sized and zig-routed
+
+Atomic Agent is the smallest unit of governed intelligence. Atomic Kube is the smallest unit of governed delivery. Both must be zip-sized, zig-routed, policy-bound, evidence-backed, trust-scored, and revocable without disturbing the Fabric.

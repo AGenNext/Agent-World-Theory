@@ -50,7 +50,7 @@ Observe
 
 ```text
 Introduction
-Theory
+Theory (including Primitives, Relation, Path, Atomic Agent, Atomic Kube, Zip & Zig)
 Architecture
 Reference World
 Legal Package
@@ -86,6 +86,12 @@ Buildpacks assemble capabilities.
 Boxes define governed capability boundaries.
 
 SurrealDB provides the toolbox.
+
+18 primitives govern everything: Identity, Domain, Relation, Path, Policy, Trust, Wallet, Agent, Tool, Model, Data, Device, Port, Kube, OpenBox, Exchange, Evidence, and Lifecycle.
+
+Relation connects. Path moves. Policy governs. Trust allows. Evidence proves. Lifecycle improves.
+
+Atomic Agent thinks small. Atomic Kube runs small. Zip in scope. Zig through governance. Prove everything.
 
 Decisions connect context, evidence, action, and outcomes.
 

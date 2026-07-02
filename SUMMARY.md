@@ -20,6 +20,12 @@
 * [Action](theory/action.md)
 * [Outcome](theory/outcome.md)
 * [Memory](theory/memory.md)
+* [Primitives](theory/primitives.md)
+* [Relation](theory/relation.md)
+* [Path](theory/path.md)
+* [Atomic Agent](theory/atomic-agent.md)
+* [Atomic Kube](theory/atomic-kube.md)
+* [Zip and Zig](theory/zip-zig.md)
 
 ## Protocols
 
